@@ -6,8 +6,8 @@
    
    **I am actively looking for full-time positions in NLP or Machine Learning**. You can reach me out at my [mail](mailto:gsasikiran000@gmail.com) or [LinkedIn](https://www.linkedin.com/in/gsasikiran/).
    
-   ## Work 💼 
-   - I have worked as Research assistant at Fraunhofer FKIE, Germany in sub-ontology generation from natural language query.
+   ## Experience 💼 
+   - I have worked as research assistant at Fraunhofer FKIE, Germany in sub-ontology generation from natural language query.
       - Designing and implementation of semantic based sub-ontology generation for a natural language search query
       - Generation of custom Word2Vec, GloVe and FastText word embeddings for the terms in the ontology
       - Implementation and evaluation of pretrained transfer learning models BERT, ELMo
