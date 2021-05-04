@@ -15,7 +15,7 @@
    
   ---------------------------------------------------------------------------------------------------------------------------------------------------------------------
   
-  ## [Thesis](https://github.com/gsasikiran/Automatic-Formative-Assessment) 📘 (Update required!)
+  ## [Thesis](https://github.com/gsasikiran/Automatic-Formative-Assessment) 📘 
   - Automatic formative assessment of students’ short text  answers through feature extraction
       - Generate unsupervised automated feedback for students' short text answers based on the evaluator's question and desired answer
       - Provide feedback on interchange of topics, missed topics, missed terms, and irrelevant terms in students' answers
