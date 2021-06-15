@@ -1,10 +1,9 @@
  # Hello 👋,
 
-   I am Sasi Kiran. I am currently interested and working in Natural Language Processing (NLP) and Machine Learning. I have recently submitted my Master Thesis on the topic of "Automatic 
-   formative assessment for students' short text answers through feature extraction". If you would like to know more about my works, do not hesitate to go through
+   I am Sasi Kiran. I have recently submitted my Master Thesis on the topic of "Automatic formative assessment for students' short text answers through feature extraction". If you would like to know more about my works, do not hesitate to go through
    my [github](https://github.com/gsasikiran) or get in touch at [mail ✉️](mailto:sasi-kiran.gaddipati@smail.inf.h-brs.de)!
    
-   **I am actively looking for full-time positions in NLP or Machine Learning**. You can reach me out at my [mail](mailto:gsasikiran000@gmail.com) or [LinkedIn](https://www.linkedin.com/in/gsasikiran/).
+   You can reach me out at my [mail](mailto:gsasikiran000@gmail.com) or [LinkedIn](https://www.linkedin.com/in/gsasikiran/).
    
    ## Experience 💼 
    - I have worked as research assistant at Fraunhofer FKIE, Germany in sub-ontology generation from natural language query.
