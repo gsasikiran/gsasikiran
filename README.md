@@ -6,7 +6,10 @@
    You can reach me out at my [mail](mailto:gsasikiran000@gmail.com) or [LinkedIn](https://www.linkedin.com/in/gsasikiran/).
    
    ## Experience 💼 
-   - I have worked as research assistant at Fraunhofer FKIE, Germany in sub-ontology generation from natural language query.
+   - Data Scientist at Ensun GmbH, Germany in Text Mining and Keyphrase Extraction
+     - _Yet to come_
+   
+   - Research assistant at Fraunhofer FKIE, Germany in sub-ontology generation from natural language query.
       - Designing and implementation of semantic based sub-ontology generation for a natural language search query
       - Generation of custom Word2Vec, GloVe and FastText word embeddings for the terms in the ontology
       - Implementation and evaluation of pretrained transfer learning models BERT, ELMo
