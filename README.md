@@ -1,13 +1,15 @@
  # Hello 👋,
 
-   I am Sasi Kiran. I have recently submitted my Master Thesis on the topic of "Automatic formative assessment for students' short text answers through feature extraction". If you would like to know more about my works, do not hesitate to go through
+   I am Sasi Kiran.If you would like to know more about my works, do not hesitate to go through
    my [github](https://github.com/gsasikiran) or get in touch at [mail ✉️](mailto:sasi-kiran.gaddipati@smail.inf.h-brs.de)!
    
    You can reach me out at my [mail](mailto:gsasikiran000@gmail.com) or [LinkedIn](https://www.linkedin.com/in/gsasikiran/).
    
    ## Experience 💼 
-   - Data Scientist at Ensun GmbH, Germany in Text Mining and Keyphrase Extraction
-     - _Yet to come_
+   - Data Scientist at Ensun GmbH, Germany in Semantic search and Keyphrase Extraction
+     - Semantic search algorithm for tech-scouting
+     - Development and deployment of algorithm
+     - Improvement of algorithm from 20% to 80%
    
    - Research assistant at Fraunhofer FKIE, Germany in sub-ontology generation from natural language query.
       - Designing and implementation of semantic based sub-ontology generation for a natural language search query
