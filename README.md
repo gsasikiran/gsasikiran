@@ -6,7 +6,7 @@
    You can reach me out at my [mail](mailto:gsasikiran000@gmail.com) or [LinkedIn](https://www.linkedin.com/in/gsasikiran/).
    
    ## Experience 💼 
-   - Data Scientist at Ensun GmbH, Germany in Semantic search and Keyphrase Extraction
+   - Data Scientist at [Ensun GmbH](https://www.ensun.de/), Germany in Semantic search and Keyphrase Extraction
      - Semantic search algorithm for tech-scouting
      - Development and deployment of algorithm
      - Improvement of algorithm from 20% to 80%
