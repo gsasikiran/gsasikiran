@@ -9,7 +9,6 @@
    - Data Scientist at [Ensun GmbH](https://www.ensun.de/), Germany in Semantic search and Keyphrase Extraction
      - Semantic search algorithm for tech-scouting
      - Development and deployment of algorithm
-     - Improvement of algorithm from 20% to 80%
    
    - Research assistant at Fraunhofer FKIE, Germany in sub-ontology generation from natural language query.
       - Designing and implementation of semantic based sub-ontology generation for a natural language search query
