@@ -1,13 +1,15 @@
+ ![](https://visitor-badge.glitch.me/badge?page_id=gsasikiran.gsasikiran)
  # Hello 👋,
+ 
 
-   I am Sasi Kiran.If you would like to know more about my works, do not hesitate to go through
-   my [github](https://github.com/gsasikiran) or get in touch at [mail ✉️](mailto:sasi-kiran.gaddipati@smail.inf.h-brs.de)!
+   I am Sasi Kiran. I am data scientist interested in Natural Language Processing, Deep Learning and Software Development!
    
    You can reach me out at my [mail](mailto:gsasikiran000@gmail.com) or [LinkedIn](https://www.linkedin.com/in/gsasikiran/).
    
    ## Experience 💼 
    - Data Scientist at [Ensun GmbH](https://www.ensun.de/), Germany in Semantic search and Keyphrase Extraction
      - Semantic search algorithm for tech-scouting
+     - Generating semantic keyphrases for a given text
      - Development and deployment of algorithm
    
    - Research assistant at Fraunhofer FKIE, Germany in sub-ontology generation from natural language query.
