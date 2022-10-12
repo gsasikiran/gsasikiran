@@ -2,7 +2,7 @@
  # Hello 👋,
  
 
-   I am Sasi Kiran. I am data scientist interested in Natural Language Processing, Deep Learning and Software Development!
+   I am Sasi Kiran. I am data scientist interested in Natural Language Applications!
    
    You can reach me out at my [mail](mailto:gsasikiran000@gmail.com) or [LinkedIn](https://www.linkedin.com/in/gsasikiran/).
    
@@ -51,7 +51,7 @@
  
  * [Comparative Evaluation of Pretrained Transfer Learning Models on Automatic Short Answer Grading](https://github.com/gsasikiran/Comparative-Evaluation-of-Pretrained-Transfer-Learning-Models-on-ASAG)([ArXiv pre-print](https://arxiv.org/pdf/2009.01303.pdf))
  * [A brief summaries of top 30 articles of deep learning (as of May 2019)](https://github.com/gsasikiran/Top-30-articles-summary-deep-learning-and-robot-learning-)
- * I also love teaching besides learning new technologies
+ * I also love teaching and guiding besides learning new technologies
     - [Stanford CIP Section Leader](https://codeinplace.stanford.edu/): Teaching mentor for programming methodologies in Python (April 2021)
 
  ---------------------------------------------------------------------------------------------------------------------------------------------------------------------
